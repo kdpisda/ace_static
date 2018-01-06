@@ -1,0 +1,13 @@
+.banner {
+    background: url(../img/banner.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height : 100%;
+}
+
+.notice {
+    height: 300px; /* the plugin works for responsive layouts so width is not necessary */
+    overflow: hidden;
+}
