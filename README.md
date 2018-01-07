@@ -1,5 +1,5 @@
 # ace_static
-[Click me to see live page] (https://kdpisda.github.io/ace_static/)
+[Click me to see live page](https://kdpisda.github.io/ace_static/)
 
 The **Association of Computer Engineers (ACE)** is a student body which provides a platform to all the budding software professionals to showcase their talents. In order to achieve this goal many events are organized in the Department of Computer Science and Engineering under the banner of ACE. This provides a good opportunity for the organizers to showcase their management skills while the participants enjoy the privilege of demonstrating their talents. ACE works for the upliftment of the department of Computer Science and Engineering by keeping students updated about trending topics and training them for their future. 
 
