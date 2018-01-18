@@ -4,6 +4,26 @@
 * Copyright 2011-2017 Twitter, Inc.
 * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
 */
+#mihir{
+ border-top: 1px solid #9a0000;
+     border-bottom: 1px solid #670000;
+}
+#mihir2{
+  border-top: 1px solid #9a0000;
+}
+#mihir3{
+  color:white;
+  background-color:#800000; 
+}
+#inner
+{
+color:white;
+}
+#inner:hover{
+  
+  background-color: white;
+  color: #800000;
+}
 .alert {
   padding: 0.75rem 1.25rem;
   margin-bottom: 1rem;
@@ -128,7 +148,7 @@
 
 .badge-secondary {
   color: #fff;
-  background-color: #004EA3; }
+  background-color: #800000; }
   .badge-secondary[href]:focus, .badge-secondary[href]:hover {
     color: #fff;
     text-decoration: none;
@@ -372,8 +392,8 @@ fieldset[disabled] a.btn {
 
 .btn-secondary {
   color: #fff;
-  background-color: #004EA3;
-  border-color: #004EA3; }
+  background-color: #800000;
+  border-color: #800000; }
   .btn-secondary:hover {
     color: #fff;
     background-color: #003c7d;
@@ -381,8 +401,8 @@ fieldset[disabled] a.btn {
   .btn-secondary:focus, .btn-secondary.focus {
     box-shadow: 0 0 0 3px rgba(0, 78, 163, 0.5); }
   .btn-secondary.disabled, .btn-secondary:disabled {
-    background-color: #004EA3;
-    border-color: #004EA3; }
+    background-color: #800000;
+    border-color: #800000; }
   .btn-secondary:active, .btn-secondary.active,
   .show > .btn-secondary.dropdown-toggle {
     background-color: #003c7d;
@@ -524,24 +544,24 @@ fieldset[disabled] a.btn {
     border-color: #007bff; }
 
 .btn-outline-secondary {
-  color: #004EA3;
+  color: #800000;
   background-color: transparent;
   background-image: none;
-  border-color: #004EA3; }
+  border-color: #800000; }
   .btn-outline-secondary:hover {
     color: #fff;
-    background-color: #004EA3;
-    border-color: #004EA3; }
+    background-color: #800000;
+    border-color: #800000; }
   .btn-outline-secondary:focus, .btn-outline-secondary.focus {
     box-shadow: 0 0 0 3px rgba(0, 78, 163, 0.5); }
   .btn-outline-secondary.disabled, .btn-outline-secondary:disabled {
-    color: #004EA3;
+    color: #800000;
     background-color: transparent; }
   .btn-outline-secondary:active, .btn-outline-secondary.active,
   .show > .btn-outline-secondary.dropdown-toggle {
     color: #fff;
-    background-color: #004EA3;
-    border-color: #004EA3; }
+    background-color: #800000;
+    border-color: #800000; }
 
 .btn-outline-success {
   color: #28a745;
@@ -3698,7 +3718,7 @@ a.bg-primary:focus, a.bg-primary:hover {
   background-color: #0062cc !important; }
 
 .bg-secondary {
-  background-color: #004EA3 !important; }
+  background-color: #800000 !important; }
 
 a.bg-secondary:focus, a.bg-secondary:hover {
   background-color: #003670 !important; }
@@ -3767,7 +3787,7 @@ a.bg-dark:focus, a.bg-dark:hover {
   border-color: #007bff !important; }
 
 .border-secondary {
-  border-color: #004EA3 !important; }
+  border-color: #800000 !important; }
 
 .border-success {
   border-color: #28a745 !important; }
@@ -5491,7 +5511,7 @@ a.text-primary:focus, a.text-primary:hover {
   color: #0062cc !important; }
 
 .text-secondary {
-  color: #004EA3 !important; }
+  color: #800000 !important; }
 
 a.text-secondary:focus, a.text-secondary:hover {
   color: #003670 !important; }
